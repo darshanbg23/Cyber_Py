@@ -210,6 +210,7 @@ Released under the MIT License — free to use and modify for educational purpos
 
 ## Author
 
-Created by Anonymous
+Created by `darshanbg23`
 Educational project on ethical hacking and web security awareness.
+
 
