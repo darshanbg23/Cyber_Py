@@ -18,8 +18,6 @@ Each project is standalone with clear code and explanations, perfect for learnin
 
 1. Clone this repository to your local machine:
 
-git clone "repo_name"
-
 2. Navigate to the project directory and explore the individual project folders.
 
 3. Each project folder contains a README or comments explaining how to run and use that particular project.
